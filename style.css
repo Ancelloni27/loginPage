@@ -16,7 +16,6 @@ body {
     background-size: 400% 400%;
     animation: gradientMove 12s ease infinite;
     background-attachment: fixed;
-
 }
 
 .container {
@@ -52,7 +51,6 @@ body {
     font-size: 16px;
     color: #fff;
     padding: 20px 45px 20px 20px;
-
 }
 
 .input-box input::placeholder {
@@ -100,7 +98,6 @@ body {
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     margin-bottom: 16px;
-
 }
 
 .login:hover {
@@ -130,11 +127,9 @@ body {
     0% {
         background-position: 0% 50%;
     }
-
     50% {
         background-position: 100% 50%;
     }
-
     100% {
         background-position: 0% 50%;
     }
